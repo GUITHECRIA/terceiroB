@@ -1,0 +1,17 @@
+
+@font-face {
+    font-family: 'Aubette';
+    src: url('Aubette\ Archi\ Type\ Normal.ttf') format('truetype'); /* ou .woff, .otf */
+}
+
+body {
+
+    background-color: black;
+}
+p {
+    font-family: 'Aubette', serif;
+    align-items: center;
+    text-align: center;
+    margin-top: 90px;
+    color: white;
+}
